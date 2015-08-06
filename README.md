@@ -54,6 +54,12 @@ Securely (over SSH) and locally
 #####  Copy a folder from one location to another
 	cp -r /path/to/folder /path/to/dest
 
+#####  Sync two folders
+	rsync -a /path/to/folder /path/to/dest
+
+- `-a` = Archive, syncs recursively and preserves sym links, special and device files, modification times, group, owner, and permissions
+- Source folder can be a remote, e.g. `username@server.com:/path/to/folder`
+
 
 
 
