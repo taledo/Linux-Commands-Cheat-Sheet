@@ -1,6 +1,8 @@
 Linux-Commands-Cheat-Sheet
 ==========================
 
+[![Join the chat at https://gitter.im/petronbot/Linux-Commands-Cheat-Sheet](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/petronbot/Linux-Commands-Cheat-Sheet?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A compilation of some commonly used Linux commands for beginners (and those of us who often just forget :))
 
 Files & Folders
