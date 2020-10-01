@@ -33,7 +33,53 @@ Some common commands for navigating, moving, deleting & more!
 #####  Unzip a file or folder
 	tar -xvzf filename.tar.gz
 
+#####  show hidden files
+	ls -a
 
+#####  show parent working directory
+	pwd
+
+#####  Exit to directory
+	cd..
+
+#####  To remove a blank directory.
+	rmdir dirname 
+
+#####  To Delete files
+	rm filename
+
+#####  Help at command line
+	man ls
+
+#####  make a blank file
+	touch filename.txt
+
+#####  To show currently log in user
+	whoami
+	
+#####  To search a file at location
+	find -name filename
+
+#####  To show the partition details of hard disk
+	fdisk - l
+
+#####  To show last 1000 commands, which is stored in /root/.bash_history
+ 	history
+
+#####  To logout via current user
+	exit
+	logout
+
+##### 	To shutdown
+	shutdown -h now
+	halt
+	power off
+
+#####  To Reboot
+	#reboot
+	init6
+	shutdown –r now
+	
 Transferring files
 ----------------
 
